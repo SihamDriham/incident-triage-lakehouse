@@ -1,0 +1,45 @@
+# Secrets
+.env
+
+# dbt
+dbt_project/target/
+dbt_project/logs/
+dbt_project/dbt_packages/
+profiles.yml
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (raw CSVs stay local — ~8 GB, not versionned)
+data/
+
+# Generated results (reproducible — not needed in git)
+results/mart_predictions.csv
+results/confusion_matrix_*.csv
+results/evaluation_report.txt
+results/dbt_test_results.txt
+
+# Backups
+*.bak
+results/sklearn_models.bak/
+
+# Large binary artifacts (LFS pointers only — actual content not stored locally)
+results/deberta_v3_parent.zip
+results/embeddings_cache.npz
+results/sklearn_models/*.pkl
+
+# Stray unzipped DeBERTa artifacts (source = results/deberta_v3_parent.zip)
+results/model.safetensors
+results/config.json
+results/tokenizer.json
+results/tokenizer_config.json
