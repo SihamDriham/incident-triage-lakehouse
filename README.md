@@ -262,18 +262,13 @@ DataLakeHouse_PFE/
 
 Le dashboard analytique (tables `MARTS_ANALYTICS.*`) est développé sous Power BI Desktop et connecté nativement à Snowflake.
 
-<!-- Ajoute ici quelques captures d'écran de tes pages de dashboard -->
-<img width="882" alt="Dashboard Power BI" src="docs/images/dashboard_powerbi.png" />
-
-> Fichier `.pbix` disponible sur SharePoint (requiert Power BI Desktop et un accès autorisé).
-
 ---
 
 ## Auteur
 
 **DRIHAM Siham**
 Ingénieure d'État en Big Data — ENSA El Jadida
-🔗 [LinkedIn]([https://linkedin.com/in/[ton-profil]](https://www.linkedin.com/in/siham-driham-955838238/)) · 📧 [sihamdriham@gmail.com]
+🔗 [LinkedIn](https://www.linkedin.com/in/siham-driham-955838238/) · 📧 [sihamdriham@gmail.com]
 
 Projet de Fin d'Études réalisé au sein du département **Data & IA de SQLI Rabat**.
 
