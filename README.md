@@ -2,10 +2,7 @@
 
 > Plateforme complète de **triage automatique des incidents** du projet Apache Spark, construite sur une **architecture en médaillon** (Bronze → Argent → Or) hébergée sur **Snowflake** et orchestrée par **dbt**, avec deux modèles de Machine Learning et deux canaux de restitution (Streamlit & Power BI).
 
-**Projet de Fin d'Études (PFE)** réalisé au sein **SQLI Rabat** de Filière 
-**Ingénieure :** DRIHAM Siham · **Filière :** Big Data, ENSA El Jadida
-
-
+**Projet de Fin d'Études (PFE)** réalisé au sein **SQLI Rabat**
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
@@ -14,6 +11,8 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 ![Tests](https://img.shields.io/badge/dbt_tests-66_PASS-brightgreen)
+
+**Ingénieure :** DRIHAM Siham · **Filière :** Big Data, ENSA El Jadida
 
 ---
 
