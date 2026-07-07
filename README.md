@@ -15,7 +15,7 @@
 
 ---
 
-## 📖 Table des matières
+## Table des matières
 - [Description](#-description)
 - [Architecture](#️-architecture)
 - [Démonstration](#-démonstration)
@@ -267,7 +267,7 @@ Le dashboard analytique (tables `MARTS_ANALYTICS.*`) est développé sous Power 
 ## Auteur
 
 **DRIHAM Siham**
-Ingénieure d'État en Big Data — ENSA El Jadida
+Ingénieure d'État en Big Data
 🔗 [LinkedIn](https://www.linkedin.com/in/siham-driham-955838238/) · 📧 [sihamdriham@gmail.com]
 
 Projet de Fin d'Études réalisé au sein du département **Data & IA de SQLI Rabat**.
